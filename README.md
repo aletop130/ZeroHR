@@ -204,8 +204,7 @@ Ogni sezione richiede:
 
 ## 🙏 Credits
 
-**ZeroHR** è il mio primo progetto reale full-stack sviluppato durante l'estate 2025, 
-dopo aver concluso il corso di Digital Maker 2025. Questo progetto è stato presentato 
+**ZeroHR** è il mio primo progetto reale full-stack sviluppato durante l'estate 2025. Questo progetto è stato presentato 
 come candidate per la competizione Digithon 2025.
 
 Progetto ZeroHR - AI Powered HR Assistant for Italy  
